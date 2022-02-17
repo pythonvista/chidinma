@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-  <title>Alexander Personal Portfolio Category Bootstrap Responsive Website Template</title>
+  <title>Chidinma Personal Portfolio Category Bootstrap Responsive Website Template</title>
 
   <!-- google fonts -->  
   <link href="//fonts.googleapis.com/css2?family=Jost:wght@300;400;600&display=swap" rel="stylesheet">
